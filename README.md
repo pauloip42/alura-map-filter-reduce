@@ -1,6 +1,7 @@
 # alura-map-filter-reduce
 Artigo da Alura sobre manipulação de array
 
+Artigo: <a>https://www.alura.com.br/artigos/manipulacao-de-array-com-map-filter-e-reduce</a>
 
 Documentação das funções utilizadas:
 
